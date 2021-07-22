@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.6.12;
+pragma solidity ^0.8.0;
 
 contract Keep3rV1JobRegistry {
     /// @notice governance address for the governance contract
